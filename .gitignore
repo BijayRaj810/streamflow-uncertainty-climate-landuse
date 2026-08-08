@@ -1,0 +1,20 @@
+# --- Virtual environment internals (this folder IS a venv root; never publish these) ---
+Include/
+Lib/
+Scripts/
+share/
+pyvenv.cfg
+__pycache__/
+*.pyc
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- OS / editor cruft ---
+.DS_Store
+Thumbs.db
+.vscode/
+
+# --- Local-only reference docs (development history, not for publishing) ---
+PROJECT_DOCUMENTATION.md
+output_documentation.md.pdf
