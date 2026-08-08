@@ -51,9 +51,9 @@ Run in numeric order: `1_` → `2_` → `3_`/`4_` → (SWAT+ model runs, externa
 ## Results
 
 This pipeline was developed as part of a larger climate-hydrology consultancy assessment for
-a monsoon-dominated rain-fed river basin. See **[results-highlights.pdf](results-highlights.pdf)**
-for a two-page summary of the main findings — climate ensemble spread, land-use change,
-season-dependent uncertainty attribution, and the integrated impact results.
+a monsoon-dominated rain-fed river basin. See **[results-highlights.md](results-highlights.md)**
+for a summary of the main findings — climate ensemble spread, land-use change, season-dependent
+uncertainty attribution, and the integrated impact results.
 
 ## Data layout
 
