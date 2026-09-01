@@ -1,4 +1,4 @@
-# Streamflow Uncertainty Analysis under Climate and Land-Use Change
+# Uncertainty Analysis of Streamflow under Climate and Land-Use Change
 
 **Results highlights** — integrated climate / land-use / hydrological uncertainty assessment for a
 monsoon-dominated rain-fed river basin

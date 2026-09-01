@@ -1,4 +1,4 @@
-# Streamflow Uncertainty Analysis under Climate and Land-Use Change
+# Uncertainty Analysis of Streamflow under Climate and Land-Use Change
 
 Research code for quantifying uncertainty in future streamflow projections for a river
 basin, driven by bias-corrected GCM climate projections and SWAT+ hydrological modeling,
