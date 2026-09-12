@@ -74,7 +74,7 @@ won't run standalone from a fresh clone otherwise.
 ## Environment
 
 Python 3.12. Core dependencies: `pandas`, `numpy`, `matplotlib`, `seaborn`, `openpyxl`,
-`statsmodels`. (A pinned `requirements.txt` hasn't been generated yet.)
+`statsmodels`.
 
 ## Repo structure
 
